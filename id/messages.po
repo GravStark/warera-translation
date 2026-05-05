@@ -1321,7 +1321,7 @@ msgstr "Perang aktif"
 msgid "Activity"
 msgstr "Aktivitas"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Tambah pengguna"
 
@@ -3242,7 +3242,7 @@ msgstr "Masukkan kode yang kami kirim ke emailmu."
 msgid "Entrepreneurship"
 msgstr "Kewirausahaan"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Gagal memulai login Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Gagal memulai login Google. Silakan ulangi CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Grup keluarga"
 
@@ -3624,7 +3624,7 @@ msgstr "Dapatkan <0>skin pelanggan eksklusif</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Dapatkan banyak skin sekaligus dengan diskon 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Dapatkan paket supporter"
 
@@ -4876,7 +4876,7 @@ msgstr "Jangan menyerah!"
 msgid "Never stop gambling"
 msgstr "Jangan berhenti berjudi"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Hanya presiden yang bisa mendaftarkan negaranya"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Hanya supporter yang bisa melihat rincian pengeluaran dan pemasukan mereka."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Buka"
 
@@ -5258,8 +5258,8 @@ msgstr "Buka"
 msgid "Open <0>{count}</0>"
 msgstr "Buka <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Buka peti"
 
@@ -5819,8 +5819,8 @@ msgstr "Tongkat Ungu"
 msgid "Put yourself to work!"
 msgstr "Ayo kerja!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Bongkar cepat"
 
@@ -6397,7 +6397,7 @@ msgstr "Pilih lokasi"
 msgid "Select a region"
 msgstr "Pilih wilayah"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Pilih semua"
 
@@ -6459,7 +6459,7 @@ msgstr "Pesanan penjualan"
 msgid "Sell price:"
 msgstr "Harga jual:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "menjual"
 
@@ -6868,7 +6868,7 @@ msgstr "Sultan Dermawan"
 msgid "Support the game"
 msgstr "Dukung game"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Dukung game dan bongkar item dengan cepat!"
 
@@ -7114,7 +7114,7 @@ msgstr "Wilayah ini tidak tertaut ke ibu kota pemiliknya."
 msgid "This round only"
 msgstr "Ronde ini saja"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Pengguna ini bukan bagian dari kelompok keluarga mana pun"
 
@@ -7284,7 +7284,7 @@ msgstr "Total"
 msgid "Total"
 msgstr "Total"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Total peti dibuka"
 
@@ -7462,7 +7462,7 @@ msgstr "Ketidakstabilan"
 msgid "Unrest Contributors"
 msgstr "Kontributor Kerusuhan"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Batal pilih semua"
 
@@ -7504,7 +7504,7 @@ msgstr "Tingkatkan Perusahaan"
 msgid "Upgrade Skills"
 msgstr "Tingkatkan Skill"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Upgrade ke Supporter"
 
@@ -7607,7 +7607,7 @@ msgstr "Pengguna diblokir"
 msgid "User participation to the ground points."
 msgstr "Partisipasi pengguna terhadap poin wilayah."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Pengguna dikeluarkan dari grup keluarga"
 
@@ -7792,7 +7792,7 @@ msgstr "Menunggu level {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Menunggu pekerja menerima atau menolak pengurangan upah. Kamu tidak bisa mengubah upah sampai mereka merespons."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "ingin"
 
@@ -7825,7 +7825,7 @@ msgstr "Perang"
 msgid "Wealth"
 msgstr "Kekayaan"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Senjata"
@@ -8035,7 +8035,7 @@ msgstr "Kamu merusak RNG"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Anda telah merekrut 10 pemain baru (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Kamu bisa membongkar item dari inventarismu dengan memilih sebuah item."
 
@@ -8376,7 +8376,7 @@ msgstr "Negaramu memulai pemberontakan di <0/> melawan <1/>"
 msgid "Your current job"
 msgstr "Pekerjaanmu saat ini"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Pesananmu saat ini"
 

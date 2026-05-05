@@ -1321,7 +1321,7 @@ msgstr "Aktív háborúk"
 msgid "Activity"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Felhasználó hozzáadása"
 
@@ -3242,7 +3242,7 @@ msgstr "Add meg az e-mailben küldött kódot."
 msgid "Entrepreneurship"
 msgstr "Vállalkozás"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr ""
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Családi csoport"
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Szerezz több skint egyszerre 30% kedvezménnyel!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Támogatói csomag beszerzése"
 
@@ -4876,7 +4876,7 @@ msgstr "Soha ne add fel!"
 msgid "Never stop gambling"
 msgstr "Soha ne hagyd abba a játékot"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Csak az elnökök regisztrálhatják az országukat"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Csak a támogatók láthatják a kiadásaik és bevételeik részletezését."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Megnyitás"
 
@@ -5258,8 +5258,8 @@ msgstr "Megnyitás"
 msgid "Open <0>{count}</0>"
 msgstr "<0>{count}</0> megnyitása"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Láda megnyitása"
 
@@ -5819,8 +5819,8 @@ msgstr ""
 msgid "Put yourself to work!"
 msgstr "Lássál munkához!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Gyors szétszerelés"
 
@@ -6397,7 +6397,7 @@ msgstr "Válassz helyszínt"
 msgid "Select a region"
 msgstr "Válassz régiót"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Összes kijelölése"
 
@@ -6459,7 +6459,7 @@ msgstr "Eladási megbízások"
 msgid "Sell price:"
 msgstr "Eladási ár:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "elad"
 
@@ -6868,7 +6868,7 @@ msgstr ""
 msgid "Support the game"
 msgstr "Támogasd a játékot"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Támogasd a játékot és bontsd szét gyorsan a tárgyakat!"
 
@@ -7114,7 +7114,7 @@ msgstr "Ez a régió nincs összekötve a tulajdonos fővárosával."
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Ez a felhasználó nem tagja egyetlen családi csoportnak sem"
 
@@ -7284,7 +7284,7 @@ msgstr "összesen"
 msgid "Total"
 msgstr "Összesen"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr ""
 
@@ -7462,7 +7462,7 @@ msgstr "Zavargás"
 msgid "Unrest Contributors"
 msgstr "Zavargás támogatók"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Összes kijelölésének megszüntetése"
 
@@ -7504,7 +7504,7 @@ msgstr "Vállalat fejlesztése"
 msgid "Upgrade Skills"
 msgstr "Képességek fejlesztése"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Váltás támogatóra"
 
@@ -7607,7 +7607,7 @@ msgstr "Felhasználó letiltva"
 msgid "User participation to the ground points."
 msgstr "Felhasználó részvétele a földi pontokban."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Felhasználó eltávolítva a családi csoportból"
 
@@ -7792,7 +7792,7 @@ msgstr "Várakozás a(z) {0}. szintre"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Várakozás arra, hogy a munkás elfogadja vagy elutasítsa a bércsökkentést. Nem változtathatod meg a bért, amíg nem válaszol."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "szeretne"
 
@@ -7825,7 +7825,7 @@ msgstr "Háborúk"
 msgid "Wealth"
 msgstr "Vagyon"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Fegyver"
@@ -8035,7 +8035,7 @@ msgstr "Összetörted az rng-t"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Az inventárium tárgyait szét tudod szerelni egy tárgy kiválasztásával."
 
@@ -8376,7 +8376,7 @@ msgstr "Az országod felkelést kezdett <0/> területén <1/> ellen"
 msgid "Your current job"
 msgstr "Jelenlegi munkád"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Jelenlegi megrendelésed"
 

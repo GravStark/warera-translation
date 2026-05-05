@@ -1321,7 +1321,7 @@ msgstr "فعال جنگیں"
 msgid "Activity"
 msgstr "سرگرمی"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "اس صارف کو ڈالیں"
 
@@ -3242,7 +3242,7 @@ msgstr "Enter the code we sent to your email."
 msgid "Entrepreneurship"
 msgstr "Entrepreneurship"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Failed to start Google login."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Failed to start Google login. Please retry the CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Family Group"
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Get multiple skins at once with a 30% discount!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Get supporter plan"
 
@@ -4876,7 +4876,7 @@ msgstr "Never give up!"
 msgid "Never stop gambling"
 msgstr "Never stop gambling"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Only presidents can register their country"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Only supporters can see their spending and income breakdown."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Open"
 
@@ -5258,8 +5258,8 @@ msgstr "Open"
 msgid "Open <0>{count}</0>"
 msgstr "Open <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Open case"
 
@@ -5819,8 +5819,8 @@ msgstr "Purple Staff"
 msgid "Put yourself to work!"
 msgstr "اپنے آپ کو کام پر لگاؤ"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "فوری اکھاڑیں"
 
@@ -6397,7 +6397,7 @@ msgstr "Select a location"
 msgid "Select a region"
 msgstr "Select a region"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Select all"
 
@@ -6459,7 +6459,7 @@ msgstr "Sell orders"
 msgid "Sell price:"
 msgstr "Sell price:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "sells"
 
@@ -6868,7 +6868,7 @@ msgstr "Sugar Daddy"
 msgid "Support the game"
 msgstr "Support the game"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Support the game and quickly dismantle items!"
 
@@ -7114,7 +7114,7 @@ msgstr "This region is not linked to its owner's capital."
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "This user is not part of any family group"
 
@@ -7284,7 +7284,7 @@ msgstr "total"
 msgid "Total"
 msgstr "Total"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Total cases opened"
 
@@ -7462,7 +7462,7 @@ msgstr "Unrest"
 msgid "Unrest Contributors"
 msgstr "Unrest Contributors"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Unselect all"
 
@@ -7504,7 +7504,7 @@ msgstr "Upgrade Company"
 msgid "Upgrade Skills"
 msgstr "Upgrade Skills"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Upgrade to supporter"
 
@@ -7607,7 +7607,7 @@ msgstr "User blocked"
 msgid "User participation to the ground points."
 msgstr "User participation to the ground points."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "User removed from family group"
 
@@ -7792,7 +7792,7 @@ msgstr "Waiting for level {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "wants"
 
@@ -7825,7 +7825,7 @@ msgstr "Wars"
 msgid "Wealth"
 msgstr "Wealth"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Weapon"
@@ -8035,7 +8035,7 @@ msgstr "You broke the rng"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "You can dismantle items from your inventory by selecting an item."
 
@@ -8376,7 +8376,7 @@ msgstr "Your country started a revolt in <0/> against <1/>"
 msgid "Your current job"
 msgstr "آپ کی حالی نوکرانی"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Your current order"
 

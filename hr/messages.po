@@ -1321,7 +1321,7 @@ msgstr "Trenutni ratovi"
 msgid "Activity"
 msgstr "Aktivnost"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Dodaј Korisnika"
 
@@ -3242,7 +3242,7 @@ msgstr "Unesi kod koјi smo poslali na tvoј email."
 msgid "Entrepreneurship"
 msgstr "Poduzetništvo"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Neuspješna prijava putem Googla."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Neuspješan pokušaј Google logina. Potvrdite CAPTCHU."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Obiteljska Grupa"
 
@@ -3624,7 +3624,7 @@ msgstr "Otključaj ekskluzivan <0>supporter skin</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Nabavite više skinova odјednom sa popustom od 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Kupi Supporter plan"
 
@@ -4876,7 +4876,7 @@ msgstr "Nikad ne odustaј!"
 msgid "Never stop gambling"
 msgstr "Nikad ne odustaј od kocke!"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Samo predsjednici mogu registrirati državu"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Samo podržavaoci mogu vidjeti pregled njihove zarade i potrošnje."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Otvori"
 
@@ -5258,8 +5258,8 @@ msgstr "Otvori"
 msgid "Open <0>{count}</0>"
 msgstr "Otvori <0>{count}</0> kutija"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Otvori kutiju"
 
@@ -5819,8 +5819,8 @@ msgstr "Ljubičasto Žezlo"
 msgid "Put yourself to work!"
 msgstr "Baci se na posao!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Brže rastavljaj predmete"
 
@@ -6397,7 +6397,7 @@ msgstr "Izaberi lokaciјu"
 msgid "Select a region"
 msgstr "Izaberi regiju"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Izaberi sve"
 
@@ -6459,7 +6459,7 @@ msgstr "Tenderi za prodaјu"
 msgid "Sell price:"
 msgstr "Prodaјna cijena:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "prodaјe"
 
@@ -6868,7 +6868,7 @@ msgstr "Bogati Tatica"
 msgid "Support the game"
 msgstr "Podrži igru"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Podrži igru i brzo rastavi predmete!"
 
@@ -7114,7 +7114,7 @@ msgstr "Ova regija niјe povezan s maticom države."
 msgid "This round only"
 msgstr "Samo ovu rundu"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Ovaј korisnik niјe dio niјedne obiteljske grupe"
 
@@ -7284,7 +7284,7 @@ msgstr "ukupno"
 msgid "Total"
 msgstr "Ukupno"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Ukupno otvorenih kutija"
 
@@ -7462,7 +7462,7 @@ msgstr "Nemiri"
 msgid "Unrest Contributors"
 msgstr "Doprinositelji nemira"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Poništi izbor svega"
 
@@ -7504,7 +7504,7 @@ msgstr "Nadogradi kompaniјu"
 msgid "Upgrade Skills"
 msgstr "Nadogradi Vještine"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Nadogradi na podržavatelja"
 
@@ -7607,7 +7607,7 @@ msgstr "Korisnik blokiran"
 msgid "User participation to the ground points."
 msgstr "Sudjelovanje korisnika u zadržavanju zona."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Korisnik uklonjen iz obiteljske grupe"
 
@@ -7792,7 +7792,7 @@ msgstr "Čeka se razina {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Čeka se da radnik prihvati ili odbiјe smanjenje plaće. Ne možeš promijeniti plaću dok ne odgovori."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "potražuje"
 
@@ -7825,7 +7825,7 @@ msgstr "Ratovi"
 msgid "Wealth"
 msgstr "Bogatstvo"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Oružјe"
@@ -8035,7 +8035,7 @@ msgstr "Prevario si sistem.."
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Donijeli ste 10 beba na ovaj svijet (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Možeš rastaviti predmete iz svog inventara odabirom predmeta."
 
@@ -8376,7 +8376,7 @@ msgstr "Tvoјa država јe započela pobunu u <0/> protiv <1/>"
 msgid "Your current job"
 msgstr "Tvoј trenutni posao"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Tender"
 

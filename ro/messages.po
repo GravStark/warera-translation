@@ -1319,7 +1319,7 @@ msgstr "Războaie active"
 msgid "Activity"
 msgstr "Activitate"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Adaugă utilizator"
 
@@ -3240,7 +3240,7 @@ msgstr "Introdu codul pe care ți l-am trimis pe email."
 msgid "Entrepreneurship"
 msgstr "Antreprenoriat"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3358,7 +3358,7 @@ msgstr "Eroareîn pornirea autentificării cu Google. "
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Eroare în pornirea autentificării cu Google. Refă testul CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Grup Familie"
 
@@ -3622,7 +3622,7 @@ msgstr "Primește un <0>skin exclusiv</0> pentru suținători!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Primești mai multe skinuri la o reducere de 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Obține planul Susținător"
 
@@ -4874,7 +4874,7 @@ msgstr "Nu renunța niciodată!"
 msgid "Never stop gambling"
 msgstr "Nu riști, nu câștigi!"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5248,7 +5248,7 @@ msgstr "Doar președinții pot înregistra țara lor"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Doar Susținătorii își pot vedea raportul de venit și cheltuieli."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Deschide"
 
@@ -5256,8 +5256,8 @@ msgstr "Deschide"
 msgid "Open <0>{count}</0>"
 msgstr "Deschide <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Deschide cutia"
 
@@ -5817,8 +5817,8 @@ msgstr "Purple Staff"
 msgid "Put yourself to work!"
 msgstr "Hai, la treabă!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Demontare rapidă"
 
@@ -6395,7 +6395,7 @@ msgstr "Selectează o locație"
 msgid "Select a region"
 msgstr "Selectați o regiune"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Selectează tot"
 
@@ -6457,7 +6457,7 @@ msgstr "Comenzi de vânzare"
 msgid "Sell price:"
 msgstr "Preț vânzare:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "vinde"
 
@@ -6866,7 +6866,7 @@ msgstr "Sugar Daddy"
 msgid "Support the game"
 msgstr "Susține jocul"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Sprijină jocul și demontează rapid obiecte!"
 
@@ -7112,7 +7112,7 @@ msgstr "Această regiune nu este conectată la capitala proprietarului său."
 msgid "This round only"
 msgstr "Doar runda curentă"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Acest utilizator nu face parte din niciun grup de familie"
 
@@ -7282,7 +7282,7 @@ msgstr "total"
 msgid "Total"
 msgstr "Total"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Total cutii deschise"
 
@@ -7460,7 +7460,7 @@ msgstr "Tensiune"
 msgid "Unrest Contributors"
 msgstr "Contribuții tensiune"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Deselectează tot"
 
@@ -7502,7 +7502,7 @@ msgstr "Îmbunătățește compania"
 msgid "Upgrade Skills"
 msgstr "Îmbunătățește competențele"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Devino Susținător"
 
@@ -7605,7 +7605,7 @@ msgstr "Utilizator blocat"
 msgid "User participation to the ground points."
 msgstr "Participarea la punctele Teren"
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Utilizator scos din grupul de familie"
 
@@ -7790,7 +7790,7 @@ msgstr "Se așteaptă nivel {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Se așteaptă ca angajatul să accepte sau să respingă reducerea salarială. Nu poți modifica salariul până când nu răspunde."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "vrea"
 
@@ -7823,7 +7823,7 @@ msgstr "Războaie"
 msgid "Wealth"
 msgstr "Avere"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Armă"
@@ -8033,7 +8033,7 @@ msgstr "Ai stricat generatorul de numere"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Ai adus 10 bebeluși pe lume (nivel >= {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Poți demonta obiecte din inventar selectând un obiect."
 
@@ -8374,7 +8374,7 @@ msgstr "Țara ta a început o revoltă în <0/> împotriva <1/>"
 msgid "Your current job"
 msgstr "Locul tău de muncă actual"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Comanda ta actuală"
 

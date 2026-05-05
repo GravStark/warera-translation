@@ -1321,7 +1321,7 @@ msgstr "Pågående krig"
 msgid "Activity"
 msgstr "Aktivitet"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Lägg till användare"
 
@@ -3242,7 +3242,7 @@ msgstr "Ange koden vi skickade till din e-post."
 msgid "Entrepreneurship"
 msgstr "Entreprenörskap"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Kunde inte starta Google-inloggning."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Kunde inte starta Google-inloggning. Försök med CAPTCHA igen."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Familjegrupp"
 
@@ -3624,7 +3624,7 @@ msgstr "Få ett exklusivt <0>prenumerant-utseende</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Få flera utseenden samtidigt med 30 % rabatt!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Skaffa supporter-medlemskap"
 
@@ -4876,7 +4876,7 @@ msgstr "Ge aldrig upp!"
 msgid "Never stop gambling"
 msgstr "Sluta aldrig försöka"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Endast presidenter kan registrera sitt land"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Endast supporters kan se specifikationen för utgifter och inkomster."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Öppna"
 
@@ -5258,8 +5258,8 @@ msgstr "Öppna"
 msgid "Open <0>{count}</0>"
 msgstr "Öppna <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Öppna låda"
 
@@ -5819,8 +5819,8 @@ msgstr "Lila stav"
 msgid "Put yourself to work!"
 msgstr "Sätt igång och jobba!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Snabbskrotning"
 
@@ -6397,7 +6397,7 @@ msgstr "Välj en plats"
 msgid "Select a region"
 msgstr "Välj en region"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Välj alla"
 
@@ -6459,7 +6459,7 @@ msgstr "Säljorder"
 msgid "Sell price:"
 msgstr "Säljpris:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "säljer"
 
@@ -6868,7 +6868,7 @@ msgstr "Storsponsor"
 msgid "Support the game"
 msgstr "Stöd spelet"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Stöd spelet och skrota föremål snabbt!"
 
@@ -7114,7 +7114,7 @@ msgstr "Regionen saknar förbindelse till ägarens huvudstad."
 msgid "This round only"
 msgstr "Endast denna rond"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Denna användare ingår inte i någon familjegrupp"
 
@@ -7284,7 +7284,7 @@ msgstr "totalt"
 msgid "Total"
 msgstr "Totalt"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Totalt antal öppnade lådor"
 
@@ -7462,7 +7462,7 @@ msgstr "Oroligheter"
 msgid "Unrest Contributors"
 msgstr "Bidragsgivare till oroligheter"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Avmarkera alla"
 
@@ -7504,7 +7504,7 @@ msgstr "Uppgradera företag"
 msgid "Upgrade Skills"
 msgstr "Uppgradera färdigheter"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Uppgradera till supporter"
 
@@ -7607,7 +7607,7 @@ msgstr "Användaren blockerad"
 msgid "User participation to the ground points."
 msgstr "Användarens bidrag till terrängpoängen."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Användaren borttagen från familjegruppen"
 
@@ -7792,7 +7792,7 @@ msgstr "Väntar på nivå {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Väntar på att den anställde ska acceptera eller neka lönesänkningen. Du kan inte ändra lönen förrän de har svarat."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "köper"
 
@@ -7825,7 +7825,7 @@ msgstr "Krig"
 msgid "Wealth"
 msgstr "Förmögenhet"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Vapen"
@@ -8035,7 +8035,7 @@ msgstr "Du knäckte slumpgeneratorn"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Du tog 10 bebisar till världen (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Du kan skrota föremål från ditt förråd genom att välja ett föremål."
 
@@ -8376,7 +8376,7 @@ msgstr "Ditt land startade en revolt i <0/> mot <1/>"
 msgid "Your current job"
 msgstr "Ditt nuvarande jobb"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Din nuvarande order"
 

@@ -1321,7 +1321,7 @@ msgstr "Vykstantys karai"
 msgid "Activity"
 msgstr "Aktyvumas"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Pridėti vartotoją"
 
@@ -3242,7 +3242,7 @@ msgstr "Įveskite kodą, kurį išsiuntėme į jūsų el. paštą."
 msgid "Entrepreneurship"
 msgstr "Verslumas"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Nepavyko pradėti prisijungimo per Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Nepavyko pradėti prisijungimo per Google. Bandykite iš naujo įvykdyti CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Šeimos grupė"
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Gaukite kelias išvaizdas vienu metu su 30 % nuolaida!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Įsigyk rėmėjo planą"
 
@@ -4876,7 +4876,7 @@ msgstr "Niekada nepasiduok!"
 msgid "Never stop gambling"
 msgstr "Niekada nenustok lošti"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Tik prezidentai gali užregistruoti savo šalį"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Tik rėmėjai gali matyti savo išlaidų ir pajamų išklotinę."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Atidaryti"
 
@@ -5258,8 +5258,8 @@ msgstr "Atidaryti"
 msgid "Open <0>{count}</0>"
 msgstr "Atidaryk <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Atidaryti dėžę"
 
@@ -5819,8 +5819,8 @@ msgstr "Purpurinė Lazda"
 msgid "Put yourself to work!"
 msgstr "Imkis darbo!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Greitas išardymas"
 
@@ -6397,7 +6397,7 @@ msgstr "Pasirink vietą"
 msgid "Select a region"
 msgstr "Pasirinkite regioną"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Pažymėti viską"
 
@@ -6459,7 +6459,7 @@ msgstr "Pardavimo pavedimai"
 msgid "Sell price:"
 msgstr "Pardavimo kaina:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "parduoda"
 
@@ -6868,7 +6868,7 @@ msgstr "Dosnus rėmėjas"
 msgid "Support the game"
 msgstr "Palaikyk žaidimą"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Paremkite žaidimą ir greitai išardykite daiktus!"
 
@@ -7114,7 +7114,7 @@ msgstr "Šis regionas nėra sujungtas su savininko sostine."
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Šis naudotojas nepriklauso jokiai šeimos grupei"
 
@@ -7284,7 +7284,7 @@ msgstr "iš viso"
 msgid "Total"
 msgstr "Iš viso"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Iš viso atidaryta dėžių"
 
@@ -7462,7 +7462,7 @@ msgstr "Neramumai"
 msgid "Unrest Contributors"
 msgstr "Neramumų kurstytojai"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Atžymėti viską"
 
@@ -7504,7 +7504,7 @@ msgstr "Patobulinti įmonę"
 msgid "Upgrade Skills"
 msgstr "Tobulinti įgūdžius"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Tapti rėmėju"
 
@@ -7607,7 +7607,7 @@ msgstr "Vartotojas užblokuotas"
 msgid "User participation to the ground points."
 msgstr "Žaidėjų indėlis į sausumos taškus."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Naudotojas pašalintas iš šeimos grupės"
 
@@ -7792,7 +7792,7 @@ msgstr "Laukiama {0} lygio"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Laukiama, kol darbuotojas priims arba atmes atlyginimo sumažinimą. Negalite keisti atlyginimo, kol jis neatsakys."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "nori"
 
@@ -7825,7 +7825,7 @@ msgstr "Karai"
 msgid "Wealth"
 msgstr "Turtas"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Ginklas"
@@ -8035,7 +8035,7 @@ msgstr "Sugadinai RNG"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Išardyti daiktus iš savo inventoriaus galite pasirinkę daiktą."
 
@@ -8376,7 +8376,7 @@ msgstr "Jūsų šalis pradėjo sukilimą vietovėje <0/> prieš <1/>"
 msgid "Your current job"
 msgstr "Tavo dabartinis darbas"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Jūsų dabartinis užsakymas"
 

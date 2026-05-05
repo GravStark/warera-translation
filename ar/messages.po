@@ -1321,7 +1321,7 @@ msgstr "حروب نشطة"
 msgid "Activity"
 msgstr "النشاط"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "إضافة مستخدم"
 
@@ -3242,7 +3242,7 @@ msgstr "أدخل الرمز الذي أرسلناه إلى بريدك الإلك
 msgid "Entrepreneurship"
 msgstr "ريادة الأعمال"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "فشل بدء تسجيل الدخول باستخدام جوجل."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "فشل بدء تسجيل الدخول باستخدام جوجل. يرجى إعادة محاولة اختبار التحقق."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "مجموعة العائلة"
 
@@ -3624,7 +3624,7 @@ msgstr "احصل على <0>مظهر حصري للمشتركين</0>!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "احصل على مظاهر متعددة دفعة واحدة بخصم 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "احصل على خطة الداعم"
 
@@ -4876,7 +4876,7 @@ msgstr "لا تستسلم أبدًا!"
 msgid "Never stop gambling"
 msgstr "لا تتوقف عن المقامرة أبدًا"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "فقط الرؤساء يمكنهم تسجيل دولهم"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "يمكن للداعمين فقط رؤية تفاصيل إنفاقهم ودخلهم."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "فتح"
 
@@ -5258,8 +5258,8 @@ msgstr "فتح"
 msgid "Open <0>{count}</0>"
 msgstr "فتح <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "فتح الصندوق"
 
@@ -5819,8 +5819,8 @@ msgstr "عصا أرجوانية"
 msgid "Put yourself to work!"
 msgstr "ضع نفسك في العمل!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "تفكيك سريع"
 
@@ -6397,7 +6397,7 @@ msgstr "اختر موقعاً"
 msgid "Select a region"
 msgstr "اختر منطقة"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "تحديد الكل"
 
@@ -6459,7 +6459,7 @@ msgstr "طلبات البيع"
 msgid "Sell price:"
 msgstr "سعر البيع:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "يبيع"
 
@@ -6868,7 +6868,7 @@ msgstr "شوغار دادي"
 msgid "Support the game"
 msgstr "ادعم اللعبة"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "ادعم اللعبة وقم بتفكيك العناصر بسرعة!"
 
@@ -7114,7 +7114,7 @@ msgstr "هذه المنطقة غير مرتبطة بعاصمة مالكها."
 msgid "This round only"
 msgstr "هذه الجولة فقط"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "هذا المستخدم ليس جزءاً من أي مجموعة عائلية"
 
@@ -7284,7 +7284,7 @@ msgstr "المجموع"
 msgid "Total"
 msgstr "الإجمالي"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "إجمالي الصناديق المفتوحة"
 
@@ -7462,7 +7462,7 @@ msgstr "اضطرابات"
 msgid "Unrest Contributors"
 msgstr "المساهمون في الاضطرابات"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "إلغاء تحديد الكل"
 
@@ -7504,7 +7504,7 @@ msgstr "ترقية الشركة"
 msgid "Upgrade Skills"
 msgstr "ترقية المهارات"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "الترقية إلى داعم"
 
@@ -7607,7 +7607,7 @@ msgstr "تم حظر المستخدم"
 msgid "User participation to the ground points."
 msgstr "مشاركة المستخدم في النقاط البرية."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "تمت إزالة المستخدم من المجموعة العائلية"
 
@@ -7792,7 +7792,7 @@ msgstr "بانتظار المستوى {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "بانتظار قبول العامل أو رفضه لتخفيض الأجر. لا يمكنك تغيير الأجر حتى يرد."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "يريد"
 
@@ -7825,7 +7825,7 @@ msgstr "حروب"
 msgid "Wealth"
 msgstr "الثروة"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "سلاح"
@@ -8035,7 +8035,7 @@ msgstr "لقد حطمت نظام الحظ (RNG)"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "لقد جلبت 10 لاعبين جدد للعالم (مستوى {0} او أعلى)"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "يمكنك تفكيك العناصر من مخزونك عن طريق تحديد عنصر."
 
@@ -8376,7 +8376,7 @@ msgstr "بدأت دولتك ثورة في <0/> ضد <1/>"
 msgid "Your current job"
 msgstr "وظيفتك الحالية"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "طلبك الحالي"
 

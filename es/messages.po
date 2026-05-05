@@ -1321,7 +1321,7 @@ msgstr "Guerras activas"
 msgid "Activity"
 msgstr "Actividad"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Añadir usuario"
 
@@ -3242,7 +3242,7 @@ msgstr "Introduce el código que te enviamos a tu correo."
 msgid "Entrepreneurship"
 msgstr "Emprendimiento"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Error al iniciar sesión con Google."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Error al iniciar sesión con Google. Por favor, inténtalo de nuevo con el CAPTCHA."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Grupo familiar"
 
@@ -3624,7 +3624,7 @@ msgstr "¡Obtén una <0>skin de suscriptor</0> exclusiva!"
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "¡Obten varias skins a la vez con un descuento del 30%!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Obtener plan de supporter"
 
@@ -4876,7 +4876,7 @@ msgstr "¡Nunca te rindas!"
 msgid "Never stop gambling"
 msgstr "Nunca dejes de jugar"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Solo los presidentes pueden registrar su país"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Solo los supporters pueden ver el desglose de sus gastos e ingresos."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Abrir"
 
@@ -5258,8 +5258,8 @@ msgstr "Abrir"
 msgid "Open <0>{count}</0>"
 msgstr "Abre <0>{count}</0>"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Abrir caja"
 
@@ -5819,8 +5819,8 @@ msgstr "Báculo morado"
 msgid "Put yourself to work!"
 msgstr "¡Ponte a trabajar!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Desmontar rápido"
 
@@ -6397,7 +6397,7 @@ msgstr "Selecciona una ubicación"
 msgid "Select a region"
 msgstr "Selecciona una región"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Seleccionar todo"
 
@@ -6459,7 +6459,7 @@ msgstr "Órdenes de venta"
 msgid "Sell price:"
 msgstr "Precio de venta:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "vende"
 
@@ -6868,7 +6868,7 @@ msgstr "Sugar Daddy"
 msgid "Support the game"
 msgstr "Apoyar el juego"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "¡Apoya el juego y desmonta objetos rápidamente!"
 
@@ -7114,7 +7114,7 @@ msgstr "Esta región no está conectada a la capital de su propietario."
 msgid "This round only"
 msgstr "Solo esta ronda"
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Este usuario no forma parte de ningún grupo familiar"
 
@@ -7284,7 +7284,7 @@ msgstr "total"
 msgid "Total"
 msgstr "Total"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Total de cajas abiertas"
 
@@ -7462,7 +7462,7 @@ msgstr "Disturbio"
 msgid "Unrest Contributors"
 msgstr "Contribuidores del disturbio"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Deseleccionar todo"
 
@@ -7504,7 +7504,7 @@ msgstr "Mejorar empresa"
 msgid "Upgrade Skills"
 msgstr "Mejorar habilidades"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Hazte supporter"
 
@@ -7607,7 +7607,7 @@ msgstr "Usuario bloqueado"
 msgid "User participation to the ground points."
 msgstr "Participación del usuario en los puntos de terreno."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Usuario eliminado del grupo familiar"
 
@@ -7792,7 +7792,7 @@ msgstr "Esperando al nivel {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Esperando a que el trabajador acepte o rechace la reducción salarial. No puedes cambiar el salario hasta que responda."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "quiere"
 
@@ -7825,7 +7825,7 @@ msgstr "Guerras"
 msgid "Wealth"
 msgstr "Riqueza"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Arma"
@@ -8035,7 +8035,7 @@ msgstr "Rompiste el rng"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr "Trajiste 10 bebés al mundo (>= lvl {0})"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Puedes desmontar objetos de tu inventario seleccionándolos."
 
@@ -8376,7 +8376,7 @@ msgstr "Tu país inició una rebelión en <0/> contra <1/>"
 msgid "Your current job"
 msgstr "Tu trabajo actual"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Tu orden actual"
 

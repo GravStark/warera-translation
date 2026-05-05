@@ -1321,7 +1321,7 @@ msgstr "進行中戰爭"
 msgid "Activity"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "新增用戶"
 
@@ -3242,7 +3242,7 @@ msgstr "輸入我們傳送至你電子郵件的驗證碼"
 msgid "Entrepreneurship"
 msgstr "創業能力"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "無法開始 Google 登入。"
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "無法開始 Google 登入。請重試 CAPTCHA"
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "家庭群組"
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "一次獲得多款造型享有30%折扣"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "獲取支持者計畫"
 
@@ -4876,7 +4876,7 @@ msgstr "永不放棄！"
 msgid "Never stop gambling"
 msgstr "不要停止賭博"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "只有總統可以為他的國家報名"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "只有支持者可以查看自己的支出與收入明細。"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "開啟"
 
@@ -5258,8 +5258,8 @@ msgstr "開啟"
 msgid "Open <0>{count}</0>"
 msgstr "開啟 <0>{count}</0> 個"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "開啟箱子"
 
@@ -5819,8 +5819,8 @@ msgstr ""
 msgid "Put yourself to work!"
 msgstr "開始工作吧！"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "快速拆解"
 
@@ -6397,7 +6397,7 @@ msgstr "選擇一個地點"
 msgid "Select a region"
 msgstr "選擇一個地區"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "全選"
 
@@ -6459,7 +6459,7 @@ msgstr "賣單"
 msgid "Sell price:"
 msgstr "賣出價格："
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "賣出"
 
@@ -6868,7 +6868,7 @@ msgstr ""
 msgid "Support the game"
 msgstr "支持這個遊戲"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "支持這個遊戲，且快速拆解物品"
 
@@ -7114,7 +7114,7 @@ msgstr "該地區未與其擁有者的首都連接。"
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "該用戶不屬於任何家庭群組"
 
@@ -7284,7 +7284,7 @@ msgstr "總共"
 msgid "Total"
 msgstr "總計"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr ""
 
@@ -7462,7 +7462,7 @@ msgstr "動盪值"
 msgid "Unrest Contributors"
 msgstr "動盪值貢獻者"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "取消全選"
 
@@ -7504,7 +7504,7 @@ msgstr "升級公司"
 msgid "Upgrade Skills"
 msgstr "升級技能"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "升級為支持者"
 
@@ -7607,7 +7607,7 @@ msgstr "用戶遭屏蔽"
 msgid "User participation to the ground points."
 msgstr "用戶對優勢點的貢獻"
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "用戶已從家庭群組中被移除"
 
@@ -7792,7 +7792,7 @@ msgstr "等待達到等級 {0}"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "在員工同意或拒絕接受降薪之前，你無法更改其薪資。"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "需求"
 
@@ -7825,7 +7825,7 @@ msgstr "戰爭"
 msgid "Wealth"
 msgstr "資產"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "武器"
@@ -8035,7 +8035,7 @@ msgstr "隨機數生成器都被你玩壞了"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "你可以在倉庫中透過選取裝備來拆解裝備。"
 
@@ -8376,7 +8376,7 @@ msgstr "你的國家在<0/>開始反抗<1/>"
 msgid "Your current job"
 msgstr "你當前的工作"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "你當前的訂單"
 

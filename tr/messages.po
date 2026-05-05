@@ -1321,7 +1321,7 @@ msgstr "Aktif savaşlar"
 msgid "Activity"
 msgstr "Aktivite"
 
-#: src/components/_user/user/FamilyGroup.tsx:70
+#: src/components/_user/user/FamilyGroup.tsx:59
 msgid "Add User"
 msgstr "Kullanıcı Ekle"
 
@@ -3242,7 +3242,7 @@ msgstr "E-postanıza gönderdiğimiz kodu girin."
 msgid "Entrepreneurship"
 msgstr "Girişimcilik"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:66
+#: src/components/_economy/inventory/case/RarityChances.tsx:50
 #: src/components/_user/user/WealthPanel.tsx:56
 #: src/pages/market/index.tsx:71
 #: src/pages/user/[userId]/index.tsx:92
@@ -3360,7 +3360,7 @@ msgstr "Google girişi başlatılamadı."
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr "Google girişi başlatılamadı. Lütfen CAPTCHA'yı tekrar deneyin."
 
-#: src/components/_user/user/FamilyGroup.tsx:60
+#: src/components/_user/user/FamilyGroup.tsx:49
 msgid "Family Group"
 msgstr "Aile Grubu"
 
@@ -3624,7 +3624,7 @@ msgstr ""
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "Birden fazla kostümü aynı anda %30 indirimle alın!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:218
+#: src/components/_economy/inventory/DismantleModal.tsx:219
 msgid "Get supporter plan"
 msgstr "Destekçi planı al"
 
@@ -4876,7 +4876,7 @@ msgstr "Asla pes etme!"
 msgid "Never stop gambling"
 msgstr "Kumar oynamayı bırakma"
 
-#: src/components/_other/shop/SkinItem.tsx:119
+#: src/components/_other/shop/SkinItem.tsx:120
 #: src/components/_other/shop/SkinPackItem.tsx:83
 #: src/components/_social/ArticleList.tsx:161
 msgid "New"
@@ -5250,7 +5250,7 @@ msgstr "Sadece başkanlar ülkelerini kaydedebilir"
 msgid "Only supporters can see their spending and income breakdown."
 msgstr "Sadece destekçiler harcama ve gelir dökümünü görebilir."
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:512
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:521
 msgid "Open"
 msgstr "Aç"
 
@@ -5258,8 +5258,8 @@ msgstr "Aç"
 msgid "Open <0>{count}</0>"
 msgstr "<0>{count}</0> aç"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:95
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:532
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:102
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:541
 msgid "Open case"
 msgstr "Kasa aç"
 
@@ -5819,8 +5819,8 @@ msgstr "Mor Değnek"
 msgid "Put yourself to work!"
 msgstr "İşe başla!"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:195
-#: src/components/_economy/inventory/DismantleModal.tsx:285
+#: src/components/_economy/inventory/DismantleModal.tsx:196
+#: src/components/_economy/inventory/DismantleModal.tsx:286
 msgid "Quick dismantle"
 msgstr "Hızlı parçala"
 
@@ -6397,7 +6397,7 @@ msgstr "Konum seç"
 msgid "Select a region"
 msgstr "Bir bölge seçin"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Select all"
 msgstr "Tümünü seç"
 
@@ -6459,7 +6459,7 @@ msgstr "Satış emirleri"
 msgid "Sell price:"
 msgstr "Satış fiyatı:"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "sells"
 msgstr "satıyor"
 
@@ -6868,7 +6868,7 @@ msgstr "Sugar Daddy"
 msgid "Support the game"
 msgstr "Oyunu destekle"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:206
+#: src/components/_economy/inventory/DismantleModal.tsx:207
 msgid "Support the game and quickly dismantle items!"
 msgstr "Oyunu destekle ve eşyaları hızlıca parçala!"
 
@@ -7114,7 +7114,7 @@ msgstr "Bu bölge sahibinin başkentine bağlı değil."
 msgid "This round only"
 msgstr ""
 
-#: src/components/_user/user/FamilyGroup.tsx:75
+#: src/components/_user/user/FamilyGroup.tsx:64
 msgid "This user is not part of any family group"
 msgstr "Bu kullanıcı herhangi bir aile grubunun parçası değil"
 
@@ -7284,7 +7284,7 @@ msgstr "toplam"
 msgid "Total"
 msgstr "Toplam"
 
-#: src/components/_economy/inventory/case/OpenCaseModal.tsx:470
+#: src/components/_economy/inventory/case/OpenCaseModal.tsx:479
 msgid "Total cases opened"
 msgstr "Toplam açılan sandık"
 
@@ -7462,7 +7462,7 @@ msgstr "Huzursuzluk"
 msgid "Unrest Contributors"
 msgstr "Huzursuzluğa Katkıda Bulunanlar"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:244
+#: src/components/_economy/inventory/DismantleModal.tsx:245
 msgid "Unselect all"
 msgstr "Seçimi kaldır"
 
@@ -7504,7 +7504,7 @@ msgstr "Şirketi Yükselt"
 msgid "Upgrade Skills"
 msgstr "Becerileri Yükselt"
 
-#: src/components/_economy/inventory/DismantleModal.tsx:202
+#: src/components/_economy/inventory/DismantleModal.tsx:203
 msgid "Upgrade to supporter"
 msgstr "Destekçi ol"
 
@@ -7607,7 +7607,7 @@ msgstr "Kullanıcı engellendi"
 msgid "User participation to the ground points."
 msgstr "Kullanıcının toprak puanlarına katılımı."
 
-#: src/components/_user/user/FamilyGroup.tsx:43
+#: src/components/_user/user/FamilyGroup.tsx:33
 msgid "User removed from family group"
 msgstr "Kullanıcı aile grubundan çıkarıldı"
 
@@ -7792,7 +7792,7 @@ msgstr "{0}. seviye bekleniyor"
 msgid "Waiting for the worker to accept or reject the wage reduction. You cannot change the wage until they respond."
 msgstr "Çalışanın maaş indirimini kabul veya reddetmesi bekleniyor. Yanıt verene kadar maaşı değiştiremezsiniz."
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:150
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:152
 msgid "wants"
 msgstr "istiyor"
 
@@ -7825,7 +7825,7 @@ msgstr "Savaşlar"
 msgid "Wealth"
 msgstr "Servet"
 
-#: src/components/_economy/inventory/case/RarityChances.tsx:65
+#: src/components/_economy/inventory/case/RarityChances.tsx:49
 #: src/components/_user/UserEquipments.tsx:118
 msgid "Weapon"
 msgstr "Silah"
@@ -8035,7 +8035,7 @@ msgstr "RNG'yi kırdın"
 msgid "You brought 10 babies to the world (>= lvl {0})"
 msgstr ""
 
-#: src/components/_economy/inventory/DismantleModal.tsx:208
+#: src/components/_economy/inventory/DismantleModal.tsx:209
 msgid "You can dismantle items from your inventory by selecting an item."
 msgstr "Bir eşya seçerek envanterindeki eşyaları parçalayabilirsin."
 
@@ -8376,7 +8376,7 @@ msgstr "Ülken <1/>'a karşı <0/>'da isyan başlattı"
 msgid "Your current job"
 msgstr "Şuanki işin"
 
-#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:141
+#: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:143
 msgid "Your current order"
 msgstr "Mevcut market emrin"
 
